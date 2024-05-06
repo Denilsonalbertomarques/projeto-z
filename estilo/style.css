@@ -74,14 +74,12 @@ main > p {
     padding-top: 30px;
     line-height: 2em;
     font-size: 1.2em;
-    
 }
 
 main p {
     padding: 10px;
     text-align: justify;
     font-family: var(--fonte-paragrafos);
-   
 }
 
 main h2 {
@@ -96,13 +94,10 @@ main h2 {
     margin-top: 80px;
 }
 
-
-
 #conteudo p {
     line-height: 2em;
     font-size: 1.2em;
     margin: 10px;
-   
 }
 
 .img {
